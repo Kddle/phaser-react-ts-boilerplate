@@ -1,7 +1,7 @@
 {
   "name": "phaser-react-ts-boilerplate",
   "version": "1.1.0",
-  "description": "A Phaser 3 Project Template",
+  "description": "A Phaser + React + TypeScript + Webpack template project.",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
